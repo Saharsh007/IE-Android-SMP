@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstAndroidApp</string>
+    <string name="name">Name</string>
+    <string name="enter_name_prompt">Enter your name</string>
+    <string name="hobby_one">Reading</string>
+    <string name="hobby_two">Playing</string>
+    <string name="hobby_three">Listening to Music</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="submit_button">Submit</string>
+</resources>
